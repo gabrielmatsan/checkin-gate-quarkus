@@ -1,13 +1,13 @@
 # Checkin Gate - Quarkus
 
-Reescrita do projeto [Checkin Gate](https://github.com/gabrielmatsan/checkin-gate) utilizando **Java 21** e **Quarkus 3.17**.
+Reescrita do projeto [Checkin Gate](https://github.com/gabrielmatsan/checkin-gate) utilizando **Java 25** e **Quarkus 3.31**.
 
-O projeto original foi desenvolvido com Node.js/TypeScript. Esta versao aplica os mesmos conceitos e funcionalidades, portados para o ecossistema Java com arquitetura hexagonal.
+O projeto original foi desenvolvido com Golang. Esta versao aplica os mesmos conceitos e funcionalidades, portados para o ecossistema Java com arquitetura hexagonal.
 
 ## Tecnologias
 
-- Java 21
-- Quarkus 3.17
+- Java 25
+- Quarkus 3.31
 - PostgreSQL + Flyway
 - Redis (fila de certificados)
 - Hibernate ORM com Panache
